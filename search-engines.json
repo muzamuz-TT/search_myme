@@ -1,6 +1,7 @@
 {
   "gl": "https://www.google.com/search?q=",
   "yt": "https://www.youtube.com/results?search_query=",
-  "bg": "https://www.bing.com/search?q=",
-  "wiki": "https://id.wikipedia.org/wiki/Special:Search?search="
+  "gpt": "https://chatgpt.com/?q=",
+  "gemini": "https://gemini.google.com/app?q=",
+  "px": "https://www.perplexity.ai/search?q="
 }
